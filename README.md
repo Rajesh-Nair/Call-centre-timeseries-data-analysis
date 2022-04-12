@@ -5,7 +5,9 @@ The data is free for use and you may also refer to below link to download direct
 
 Data location : https://iew.technion.ac.il/serveng/callcenterdata/index.html
 
-To start with, we would understand the data, try to figure out any trend. We would also try to fnd anything in the data that could indicate a problem and might need resolution. This is covered in detail in the notebook "01 Analyze Call logs" which was intially developed using matpltolib however use of plotlty appeared reasonable later, so you have both the next books.
+To start with, we would understand the data, try to figure out any trend. We would also try to fnd anything in the data that could indicate a problem and might need resolution. This is covered in detail in the notebook "01 Analyze Call logs" which was intially developed using matpltolib however use of plotlty appeared reasonable later, so you have both the next books. 
+
+Once you go through the above notebook, you would notice that there are significant number of call drops , and we have also done a root cause analysis to understand the problem and potential solution.
 
 Then we would see if we could analyze the calls received by the bank , recorded at each hour could be analyzed and forecasted. This is covered in the 2nd notebook "02 Time series forecasting - No of customer calls".
 
