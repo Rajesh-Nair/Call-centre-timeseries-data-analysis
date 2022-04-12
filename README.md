@@ -14,3 +14,5 @@ Then we would see if we could analyze the calls received by the bank , recorded 
 **Future work** : This repository would be updated as and when the work progress. Upcoming work/updates would involve
 1) Use deep learning models to forecast customer calls 
 2) Use of Linear programming to find best utilisation of agents time in order to reduce the call drops. Understand if call drops can be reduced by better shift allocation strategy assuming the same workforce to be available or alternatively if we are to reduce the overall call drops by x %, what would be an ideal shift allocation and whether we would need to increase the number of agents working in the call centre to meet the additional call volume.
+
+Note: Since github view does not support plotly plots, please view the ipython notebook in nbviewer. Please use this link to view : https://nbviewer.org/github/Rajesh-Nair/Call-centre-timeseries-data-analysis/tree/main/
